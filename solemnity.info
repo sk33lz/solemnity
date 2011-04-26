@@ -1,0 +1,6 @@
+; $Id: $
+name = Solemnity
+core = 6.x
+engine = phptemplate
+stylesheets[all][] = style.css
+description = A sleek, 2 column layout with a right sidebar. Great for a blog.
